@@ -61,8 +61,8 @@ This project follows the complete Data Science lifecycle: Data Understanding →
 │ └── visualize.ipynb
 │
 ├── references
-└── README.md```
-
+└── README.md 
+```
 ---
 
 ## Key Steps
@@ -131,3 +131,6 @@ This project follows the complete Data Science lifecycle: Data Understanding →
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/INX_Employee_Performance_Project.git
+
+
+/your-username/INX_Employee_Performance_Project.git
